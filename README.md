@@ -8,15 +8,15 @@ Digite o que você precisa (filamento PLA, resina, impressora Ender 3) e pronto!
 
 **Como funciona a mágica?**
 
-**Você digita**: Escreve o que procura no campo de pesquisa.
-**A aplicação busca**: O JavaScript varre uma lista de produtos e compara o que você digitou com os títulos, descrições e tags de cada item.
-**Resultados na tela**: Se encontrar algo relevante, exibe os resultados de forma organizada e bonita.
+1.  **Você digita**: Escreve o que procura no campo de pesquisa.
+2.  **A aplicação busca**: O JavaScript varre uma lista de produtos e compara o que você digitou com os títulos, descrições e tags de cada item.
+3.  **Resultados na tela**: Se encontrar algo relevante, exibe os resultados de forma organizada e bonita.
 
 **Tecnologias utilizadas:**
 
-**HTML**: A estrutura da página, como você vê e interage com ela.
-**CSS**: Deixa tudo bonitinho e organizado, com cores e estilos que combinam.
-**JavaScript**: A inteligência por trás da aplicação! É ele quem faz a busca, compara os dados e atualiza a página.
+* **HTML**: A estrutura da página, como você vê e interage com ela.
+* **CSS**: Deixa tudo bonitinho e organizado, com cores e estilos que combinam.
+* **JavaScript**: A inteligência por trás da aplicação! É ele quem faz a busca, compara os dados e atualiza a página.
 
 **O que você pode fazer com essa aplicação?**
 
